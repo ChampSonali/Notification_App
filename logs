@@ -1,0 +1,4 @@
+2020-07-29 17:08:44.395 26102-26102/com.example.notifyme D/NotificationService: i have started context
+2020-07-29 17:08:44.398 3852-4149/? D/ActivityManager: Checking for the Active launch isPkgEverLaunched :true, isPkgStopped : false, isDataCleared :false, isAutoRunBlocked : false
+2020-07-29 17:08:44.401 3852-4149/? E/ActivityManager: Received intent is null
+2020-07-29 17:08:44.401 26102-26102/com.example.notifyme D/NotificationService: i have ended context
